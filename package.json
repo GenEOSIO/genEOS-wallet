@@ -1,6 +1,6 @@
 {
-  "name": "scatter",
-  "version": "6.1.6",
+  "name": "geneos-wallet",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
