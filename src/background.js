@@ -379,7 +379,7 @@ export default class Background {
                 console.log('network', network, BlockchainsArray);
 
                 if(!BlockchainsArray.map(x => x.value).includes(network.blockchain)){
-                    sendResponse(new Error('bad_blockchain', 'The blockchain you specified is not supported by Scatter'));
+                    sendResponse(new Error('bad_blockchain', 'The blockchain you specified is not supported by genEOS Wallet'));
                     return;
                 }
 

@@ -32,11 +32,11 @@ export default class EOS extends Plugin {
     async getEndorsedNetwork(){
         return new Promise((resolve, reject) => {
             resolve(new Network(
-                'genEOS Mainnet', 'https',
-                'url.genEOS.node',
-                443,
+                'genEOS Testnet', 'http',
+                '148.251.96.180',
+                8888,
                 Blockchains.GENEOS,
-                'genEOS Mainnet chain ID'
+                '109afa5f01a84f803f48332291ea2e1a5ee8b8196c581f49afa87d241ad5b64b'
             ));
         });
     }

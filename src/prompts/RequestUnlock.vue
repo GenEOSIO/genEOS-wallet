@@ -1,6 +1,6 @@
+<title> genEOS Wallet </title>
 <template>
     <section class="prompt-body">
-
         <section class="prompt-actions">
             <btn :text="locale(langKeys.BUTTON_Cancel)" v-on:clicked="accepted"></btn>
         </section>

@@ -36,7 +36,7 @@ let currentVersion = new WeakMap();
 let requiredVersion = new WeakMap();
 
 const throwIfNoIdentity = () => {
-    if(!publicKey) throws('There is no identity with an account set on your Scatter instance.');
+    if(!publicKey) throws('There is no identity with an account set on your genEOS Wallet instance.');
 };
 
 

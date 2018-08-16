@@ -7,7 +7,7 @@
                 <figure class="breaker"></figure>
                 <figure class="description">
                     The genEOS team holds no liability towards your digital assets. It is your responsibility to constantly make sure your
-                    computer is free of malware. We have taken every measure in our capabilities to ensure that Scatter is safe to use
+                    computer is free of malware. We have taken every measure in our capabilities to ensure that genEOS Wallet is safe to use
                     as intended however your computer itself is your worst enemy and should be treated as such.
                     <br><br>
                     By using genEOS Wallet you are relinquishing any ability to take legal actions against the genEOS team
